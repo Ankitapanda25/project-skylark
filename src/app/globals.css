@@ -6,3 +6,13 @@ body {
   color: #fff;
   background: #111;
 }
+
+@media only screen and (min-width: 1024px){
+  #alumniFlex:last-child{
+    width: 100vw;
+    justify-content: center;
+    margin-left: 29rem;
+    margin-bottom: 8rem;
+  }
+  
+}
